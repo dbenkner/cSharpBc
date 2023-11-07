@@ -1,0 +1,14 @@
+C:\repos\OO_Shapes\OO_Shapes\bin\Debug\net7.0\OO_Shapes.exe
+C:\repos\OO_Shapes\OO_Shapes\bin\Debug\net7.0\OO_Shapes.deps.json
+C:\repos\OO_Shapes\OO_Shapes\bin\Debug\net7.0\OO_Shapes.runtimeconfig.json
+C:\repos\OO_Shapes\OO_Shapes\bin\Debug\net7.0\OO_Shapes.dll
+C:\repos\OO_Shapes\OO_Shapes\bin\Debug\net7.0\OO_Shapes.pdb
+C:\repos\OO_Shapes\OO_Shapes\obj\Debug\net7.0\OO_Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\OO_Shapes\OO_Shapes\obj\Debug\net7.0\OO_Shapes.AssemblyInfoInputs.cache
+C:\repos\OO_Shapes\OO_Shapes\obj\Debug\net7.0\OO_Shapes.AssemblyInfo.cs
+C:\repos\OO_Shapes\OO_Shapes\obj\Debug\net7.0\OO_Shapes.csproj.CoreCompileInputs.cache
+C:\repos\OO_Shapes\OO_Shapes\obj\Debug\net7.0\OO_Shapes.dll
+C:\repos\OO_Shapes\OO_Shapes\obj\Debug\net7.0\refint\OO_Shapes.dll
+C:\repos\OO_Shapes\OO_Shapes\obj\Debug\net7.0\OO_Shapes.pdb
+C:\repos\OO_Shapes\OO_Shapes\obj\Debug\net7.0\OO_Shapes.genruntimeconfig.cache
+C:\repos\OO_Shapes\OO_Shapes\obj\Debug\net7.0\ref\OO_Shapes.dll

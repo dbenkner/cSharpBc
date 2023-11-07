@@ -1,0 +1,14 @@
+C:\repos\Example821Inher\Example821Inher\bin\Debug\net7.0\Example821Inher.exe
+C:\repos\Example821Inher\Example821Inher\bin\Debug\net7.0\Example821Inher.deps.json
+C:\repos\Example821Inher\Example821Inher\bin\Debug\net7.0\Example821Inher.runtimeconfig.json
+C:\repos\Example821Inher\Example821Inher\bin\Debug\net7.0\Example821Inher.dll
+C:\repos\Example821Inher\Example821Inher\bin\Debug\net7.0\Example821Inher.pdb
+C:\repos\Example821Inher\Example821Inher\obj\Debug\net7.0\Example821Inher.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Example821Inher\Example821Inher\obj\Debug\net7.0\Example821Inher.AssemblyInfoInputs.cache
+C:\repos\Example821Inher\Example821Inher\obj\Debug\net7.0\Example821Inher.AssemblyInfo.cs
+C:\repos\Example821Inher\Example821Inher\obj\Debug\net7.0\Example821Inher.csproj.CoreCompileInputs.cache
+C:\repos\Example821Inher\Example821Inher\obj\Debug\net7.0\Example821Inher.dll
+C:\repos\Example821Inher\Example821Inher\obj\Debug\net7.0\refint\Example821Inher.dll
+C:\repos\Example821Inher\Example821Inher\obj\Debug\net7.0\Example821Inher.pdb
+C:\repos\Example821Inher\Example821Inher\obj\Debug\net7.0\Example821Inher.genruntimeconfig.cache
+C:\repos\Example821Inher\Example821Inher\obj\Debug\net7.0\ref\Example821Inher.dll

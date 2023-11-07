@@ -1,0 +1,14 @@
+C:\repos\DebugExamples\DebugExamples\bin\Debug\net7.0\DebugExamples.exe
+C:\repos\DebugExamples\DebugExamples\bin\Debug\net7.0\DebugExamples.deps.json
+C:\repos\DebugExamples\DebugExamples\bin\Debug\net7.0\DebugExamples.runtimeconfig.json
+C:\repos\DebugExamples\DebugExamples\bin\Debug\net7.0\DebugExamples.dll
+C:\repos\DebugExamples\DebugExamples\bin\Debug\net7.0\DebugExamples.pdb
+C:\repos\DebugExamples\DebugExamples\obj\Debug\net7.0\DebugExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\DebugExamples\DebugExamples\obj\Debug\net7.0\DebugExamples.AssemblyInfoInputs.cache
+C:\repos\DebugExamples\DebugExamples\obj\Debug\net7.0\DebugExamples.AssemblyInfo.cs
+C:\repos\DebugExamples\DebugExamples\obj\Debug\net7.0\DebugExamples.csproj.CoreCompileInputs.cache
+C:\repos\DebugExamples\DebugExamples\obj\Debug\net7.0\DebugExamples.dll
+C:\repos\DebugExamples\DebugExamples\obj\Debug\net7.0\refint\DebugExamples.dll
+C:\repos\DebugExamples\DebugExamples\obj\Debug\net7.0\DebugExamples.pdb
+C:\repos\DebugExamples\DebugExamples\obj\Debug\net7.0\DebugExamples.genruntimeconfig.cache
+C:\repos\DebugExamples\DebugExamples\obj\Debug\net7.0\ref\DebugExamples.dll

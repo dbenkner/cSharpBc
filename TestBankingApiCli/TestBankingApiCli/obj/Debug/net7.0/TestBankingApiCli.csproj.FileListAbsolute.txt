@@ -1,0 +1,14 @@
+C:\repos\TestBankingApiCli\TestBankingApiCli\obj\Debug\net7.0\TestBankingApiCli.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\TestBankingApiCli\TestBankingApiCli\obj\Debug\net7.0\TestBankingApiCli.AssemblyInfoInputs.cache
+C:\repos\TestBankingApiCli\TestBankingApiCli\obj\Debug\net7.0\TestBankingApiCli.AssemblyInfo.cs
+C:\repos\TestBankingApiCli\TestBankingApiCli\obj\Debug\net7.0\TestBankingApiCli.csproj.CoreCompileInputs.cache
+C:\repos\TestBankingApiCli\TestBankingApiCli\bin\Debug\net7.0\TestBankingApiCli.exe
+C:\repos\TestBankingApiCli\TestBankingApiCli\bin\Debug\net7.0\TestBankingApiCli.deps.json
+C:\repos\TestBankingApiCli\TestBankingApiCli\bin\Debug\net7.0\TestBankingApiCli.runtimeconfig.json
+C:\repos\TestBankingApiCli\TestBankingApiCli\bin\Debug\net7.0\TestBankingApiCli.dll
+C:\repos\TestBankingApiCli\TestBankingApiCli\bin\Debug\net7.0\TestBankingApiCli.pdb
+C:\repos\TestBankingApiCli\TestBankingApiCli\obj\Debug\net7.0\TestBankingApiCli.dll
+C:\repos\TestBankingApiCli\TestBankingApiCli\obj\Debug\net7.0\refint\TestBankingApiCli.dll
+C:\repos\TestBankingApiCli\TestBankingApiCli\obj\Debug\net7.0\TestBankingApiCli.pdb
+C:\repos\TestBankingApiCli\TestBankingApiCli\obj\Debug\net7.0\TestBankingApiCli.genruntimeconfig.cache
+C:\repos\TestBankingApiCli\TestBankingApiCli\obj\Debug\net7.0\ref\TestBankingApiCli.dll

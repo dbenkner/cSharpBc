@@ -1,0 +1,11 @@
+C:\repos\DavidLibrary\DavidLibrary\bin\Debug\net7.0\DavidLibrary.deps.json
+C:\repos\DavidLibrary\DavidLibrary\bin\Debug\net7.0\DavidLibrary.dll
+C:\repos\DavidLibrary\DavidLibrary\bin\Debug\net7.0\DavidLibrary.pdb
+C:\repos\DavidLibrary\DavidLibrary\obj\Debug\net7.0\DavidLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\DavidLibrary\DavidLibrary\obj\Debug\net7.0\DavidLibrary.AssemblyInfoInputs.cache
+C:\repos\DavidLibrary\DavidLibrary\obj\Debug\net7.0\DavidLibrary.AssemblyInfo.cs
+C:\repos\DavidLibrary\DavidLibrary\obj\Debug\net7.0\DavidLibrary.csproj.CoreCompileInputs.cache
+C:\repos\DavidLibrary\DavidLibrary\obj\Debug\net7.0\DavidLibrary.dll
+C:\repos\DavidLibrary\DavidLibrary\obj\Debug\net7.0\refint\DavidLibrary.dll
+C:\repos\DavidLibrary\DavidLibrary\obj\Debug\net7.0\DavidLibrary.pdb
+C:\repos\DavidLibrary\DavidLibrary\obj\Debug\net7.0\ref\DavidLibrary.dll

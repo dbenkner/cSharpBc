@@ -1,0 +1,14 @@
+C:\repos\studying\studying\obj\Debug\net7.0\studying.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\studying\studying\obj\Debug\net7.0\studying.AssemblyInfoInputs.cache
+C:\repos\studying\studying\obj\Debug\net7.0\studying.AssemblyInfo.cs
+C:\repos\studying\studying\obj\Debug\net7.0\studying.csproj.CoreCompileInputs.cache
+C:\repos\studying\studying\bin\Debug\net7.0\studying.exe
+C:\repos\studying\studying\bin\Debug\net7.0\studying.deps.json
+C:\repos\studying\studying\bin\Debug\net7.0\studying.runtimeconfig.json
+C:\repos\studying\studying\bin\Debug\net7.0\studying.dll
+C:\repos\studying\studying\bin\Debug\net7.0\studying.pdb
+C:\repos\studying\studying\obj\Debug\net7.0\studying.dll
+C:\repos\studying\studying\obj\Debug\net7.0\refint\studying.dll
+C:\repos\studying\studying\obj\Debug\net7.0\studying.pdb
+C:\repos\studying\studying\obj\Debug\net7.0\studying.genruntimeconfig.cache
+C:\repos\studying\studying\obj\Debug\net7.0\ref\studying.dll
